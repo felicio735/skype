@@ -1,0 +1,9 @@
+{
+  "name": "Skype Press F",
+  "symbol": "SkypeF",
+  "description": "Press F to pay respects 💙📞",
+  "image": "https://raw.githubusercontent.com/felicio735/skype/refs/heads/main/skype.png",
+  "creator": {
+   "name": "Microsoft"
+  }
+}
